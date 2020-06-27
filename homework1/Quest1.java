@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Quest3 {
+public class Quest1 {
     public static int NumOfWays (int [] arr, int arrlength, int price) {
     	if(price == 0) {
     		return 1;
